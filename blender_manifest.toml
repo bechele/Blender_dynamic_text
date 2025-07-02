@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "dynamic_text_object"
+name = "Dynamic Text Object"
+version = "1.10.7"
+tagline = "Create text objects that dynamically display values"
+maintainer = "Rolf Jethon"
+type = "add-on"
+tags = ["Object"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 Rolf Jethon"]
