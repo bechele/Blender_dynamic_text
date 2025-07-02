@@ -42,3 +42,6 @@ Speed: 34.50 Height: 12.00
 ## License
 GPL-3.0-or-later# Blender_dynamic_text
 Blender addon - add a dynamic text object
+
+## Links
+Blender demo of the addon https://www.youtube.com/watch?v=nDNOk_NRz9Q
