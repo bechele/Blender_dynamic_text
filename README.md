@@ -38,6 +38,7 @@ Speed: 34.50 Height: 12.00
 ## Known Limitations
 - Markers must be alphanumeric (no spaces or special characters).
 - If the same marker name is used twice, only the first is used for editing.
+- Does not work consistently togehter with the blender undo stack.
 
 ## License
 GPL-3.0-or-later# Blender_dynamic_text
